@@ -1,0 +1,19 @@
+{
+  "name": "saka-lang",
+  "version": "0.1.0",
+  "description": "a speech pattern matching language designed for simplicity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lusakasa/saka-lang.git"
+  },
+  "author": "eejdoowad <eejdoowad@gmail.com>",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/lusakasa/saka-lang/issues"
+  },
+  "homepage": "https://github.com/lusakasa/saka-lang"
+}
